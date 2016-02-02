@@ -18,7 +18,7 @@ i_NUSII.txt   i_NUSII_rect.txt         i_NUSIINoise.txt   i_NUSIINoise_rect.txt
 j_NUSII.txt   j_NUSII_rect.txt         j_NUSIINoise.txt   j_NUSIINoise_rect.txt
 
 
-The format used to define the rectangle in the annotations files is:
+The format used to define a rectangle in the annotations files is:
 
 width height x y 
 
